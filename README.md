@@ -23,9 +23,3 @@ Bem-vindo(a) ao meu portfólio! Este projeto foi desenvolvido como parte do meu 
 
 ### Carousel de Projetos
 ![Projetos]
-
-## 🚀 Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/portifolio.git
