@@ -1,4 +1,4 @@
-# Portfólio - Maria Oliveira
+# Portfólio - Maria Eduarda Trevizane Buonafina
 
 Bem-vindo(a) ao meu portfólio! Este projeto foi desenvolvido como parte do meu aprendizado em desenvolvimento web e tem como objetivo apresentar minhas habilidades, projetos e formas de contato profissional.
 
