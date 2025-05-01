@@ -18,8 +18,8 @@ Bem-vindo(a) ao meu portfólio! Este projeto foi desenvolvido como parte do meu 
 
 ## 📸 Telas do Projeto
 
-### Página Inicial
-![Home]
+### Sobre mim e Carousel projeto 1
+![https://imgur.com/mdjbBKH]
 
-### Carousel de Projetos
-![Projetos]
+### Carousel projeto 2 e Contato
+![https://imgur.com/ZaLWrS2]
